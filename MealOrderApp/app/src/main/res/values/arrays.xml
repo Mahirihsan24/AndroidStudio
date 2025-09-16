@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="dish_types">
+        <item>entry</item>
+        <item>main</item>
+        <item>drink</item>
+    </string-array>
+</resources>

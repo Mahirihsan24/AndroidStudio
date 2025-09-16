@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App theme -->
+    <style name="Theme.MealOrderApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Example brand colors; you can keep your existing ones -->
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="colorAccent">@android:color/holo_green_light</item>
+
+        <!-- If you use a Toolbar in layouts -->
+        <item name="actionBarStyle">@style/Widget.Material3.ActionBar.Solid</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
